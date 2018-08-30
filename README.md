@@ -12,3 +12,5 @@ In order to run the example, edit example/servoExample.cpp and uncomment the lin
 
 and change the servoMin and servoMax values to values appropriate to the servos being used.
 
+More info: https://www.jetsonhacks.com/2015/10/14/pwm-servo-driver-board-nvidia-jetson-tk1/
+
